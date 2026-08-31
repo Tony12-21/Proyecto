@@ -10,3 +10,4 @@ Durante el juego, el jugador puede decidir entre pedir otra carta o quedarse con
 Creo que es un proyecto interesante ya que este me ayudaría mucho con mis habilidades de python en el sentido que no suena demasiado complejo pero tambien tiene muchas variables y cosas en las que me podría ayudar. Personalmente tambien me sentiría más motivado a hacerlo por que me gusta mucho el blackjack pero no soy tan fan de la parte de apostar.
 
 ## Algoritmo
+[Algoritmo Proyecto Blackjack.pdf](https://github.com/user-attachments/files/31629829/Algoritmo.Proyecto.Blackjack.pdf)
