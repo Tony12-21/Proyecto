@@ -1,27 +1,36 @@
 dinero = 100
-apuesta = 10
+apuesta = #input
 puntos = 0
 
-print("Bienvenido al Blackjack")
-print("Dinero disponible:", dinero)
 
-apuesta = int(input("Cuanto vas a apostar?: "))
+def bienvenida():
+    print("Bienvenido a Blackjack")
+    print("Dinero disponible:", dinero)
 
-dinero = dinero - apuesta
 
-print("Apostaste:", apuesta)
-print("Dinero restante:", dinero)
+def apostar(dinero,apuesta):
 
-carta1 = int(input("Introduce el valor de tu primera carta: "))
-carta2 = int(input("Introduce el valor de tu segunda carta: "))
+    apuesta = int(input("Cuanto vas a apostar?: "))
+    dinero = dinero - apuesta
 
-puntos = carta1 + carta2
+    print("Dinero restante:", dinero)
+
+def cartas(Puntos):
+    carta1 = #valor de carta random del 1-11
+    carta2 = #valor de carta random del 1-11
+    puntos = carta1 + carta2
+
+bienvenida()
+apostar()
+cartas()
 
 print("Tus puntos son:", puntos)
 
 if puntos == 21:
-    print("¡Blackjack!")
+    print("Blackjack")
+
 elif puntos > 21:
     print("Te pasaste de 21")
+
 else:
     print("Puedes seguir jugando")
