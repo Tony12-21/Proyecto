@@ -1,4 +1,3 @@
-[Proyecto_Principal.py](https://github.com/user-attachments/files/34895336/Proyecto_Principal.py)
 ## Contexto
 
 El Blackjack es un juego de cartas en el que el objetivo es conseguir una puntuación lo más cercana posible a 21 sin superar este número. El jugador compite contra el dealer, y quien tenga la puntuación más alta sin pasarse de 21 gana.
@@ -13,3 +12,4 @@ Creo que es un proyecto interesante ya que este me ayudaría mucho con mis habil
 [Algoritmo Proyecto Blackjack.pdf](https://github.com/user-attachments/files/31629829/Algoritmo.Proyecto.Blackjack.pdf)
 
 ## Avance 2 Codigo
+[Proyecto_Principal.py](https://github.com/user-attachments/files/34895336/Proyecto_Principal.py)
