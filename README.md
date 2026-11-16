@@ -12,5 +12,5 @@ Creo que es un proyecto interesante ya que este me ayudaría mucho con mis habil
 [Algoritmo Proyecto Blackjack.pdf](https://github.com/user-attachments/files/31629829/Algoritmo.Proyecto.Blackjack.pdf)
 
 ## Avance 2 Codigo
-[Proyecto_Principal.py](https://github.com/user-attachments/files/31895160/Proyecto_Principal.py)# Juego de Blackjack
+[Proyecto_Principal.py](https://github.com/user-attachments/files/31895160/Proyecto_Principal.py)
 (Favor revisar avance 5,6,7 y 8)
